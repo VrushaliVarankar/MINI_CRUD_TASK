@@ -1,5 +1,5 @@
 ![Image A](https://github.com/VrushaliVarankar/MINI_CRUD_TASK/blob/main/Image%20A.png)
-![Image B](https://github.com/VrushaliVarankar/MINI_CRUD_TASK/blob/main/Image%20A.png))
+![Image B](https://github.com/VrushaliVarankar/MINI_CRUD_TASK/blob/main/Image%20B.png)
 ![Image C](https://github.com/VrushaliVarankar/MINI_CRUD_TASK/blob/main/Image%20C.png)
 
 # Getting Started with Create React App
