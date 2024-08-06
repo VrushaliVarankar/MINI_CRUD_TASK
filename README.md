@@ -1,4 +1,4 @@
-![Image1](https://github.com/VrushaliVarankar/MINI_CRUD_TASK/blob/main/Image%20A.png)
+
 
 # Getting Started with Create React App
 
