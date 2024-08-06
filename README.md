@@ -1,3 +1,5 @@
+![Image1](https://github.com/VrushaliVarankar/MINI_CRUD_TASK/blob/main/Image%20A.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
